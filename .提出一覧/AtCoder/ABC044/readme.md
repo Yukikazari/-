@@ -9,8 +9,10 @@
 [AC](https://atcoder.jp/contests/abc044/submissions/15400019)  
 
 [C 高橋君とカード](https://atcoder.jp/contests/abc044/tasks/arc060_a)  
-[WA](https://atcoder.jp/contests/abc044/submissions/15409310)  
+WA  
+[AC](https://atcoder.jp/contests/abc044/submissions/15409310)  
 
 [D 桁和](https://atcoder.jp/contests/abc044/tasks/arc060_b)  
-[WA](https://atcoder.jp/contests/abc044/submissions/15477705)  
+WA  
+[AC](https://atcoder.jp/contests/abc044/submissions/15477705)  
 
