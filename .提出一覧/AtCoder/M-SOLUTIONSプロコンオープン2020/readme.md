@@ -9,5 +9,9 @@ AC
 [C Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c)  
 AC  
 [D Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d)  
-WA
+WA  
+[E M's Solution](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_e)  
+WA  
+[F Air Safety](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_f)  
+WA  
 
