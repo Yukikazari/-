@@ -16,7 +16,7 @@ AC
   
 [D Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d)  
 WA  
-[Python貪欲](https://atcoder.jp/contests/m-solutions2020/submissions/15453815) [Python貪欲2](https://atcoder.jp/contests/m-solutions2020/submissions/15476788) [PythonDP](https://atcoder.jp/contests/m-solutions2020/submissions/15472174)
+[Python貪欲](https://atcoder.jp/contests/m-solutions2020/submissions/15453815) [Python貪欲2](https://atcoder.jp/contests/m-solutions2020/submissions/15476788) [PythonDP](https://atcoder.jp/contests/m-solutions2020/submissions/15480644)
   
 [E M's Solution](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_e)  
 WA  
