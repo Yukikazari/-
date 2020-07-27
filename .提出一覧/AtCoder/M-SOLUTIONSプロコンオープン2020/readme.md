@@ -3,17 +3,17 @@
 ## [TOP](https://atcoder.jp/contests/m-solutions2020)    
 
 [A Kyu in AtCoder](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a)  
-[AC](https://atcoder.jp/contests/abc044/submissions/15413491)  
+[AC](https://atcoder.jp/contests/m-solutions2020/submissions/15413491)  
   
 [B Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b)  
-[AC](https://atcoder.jp/contests/abc044/submissions/15418786)  
+[AC](https://atcoder.jp/contests/m-solutions2020/submissions/15418786)  
   
 [C Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c)  
-[AC](https://atcoder.jp/contests/abc044/submissions/15424530)  
+[AC](https://atcoder.jp/contests/m-solutions2020/submissions/15424530)  
   
 [D Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d)  
 WA  
-[貪欲](https://atcoder.jp/contests/abc044/submissions/15453815) [貪欲2](https://atcoder.jp/contests/m-solutions2020/submissions/15476788) [DP](https://atcoder.jp/contests/m-solutions2020/submissions/15472174)
+[貪欲](https://atcoder.jp/contests/m-solutions2020/submissions/15453815) [貪欲2](https://atcoder.jp/contests/m-solutions2020/submissions/15476788) [DP](https://atcoder.jp/contests/m-solutions2020/submissions/15472174)
   
 [E M's Solution](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_e)  
 WA  
