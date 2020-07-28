@@ -30,7 +30,7 @@
 <a href="https://atcoder.jp/contests/dp/submissions/15502931" target="_blank" rel="noopener noreferrer">Python</a>  
 
 <a href="https://atcoder.jp/contests/dp/tasks/dp_j" target="_blank" rel="noopener noreferrer">J Sushi</a>  
-<a href="https://atcoder.jp/contests/dp/submissions/15510478" target="_blank" rel="noopener noreferrer">PyPyメモ化再帰</a> <a href="https://atcoder.jp/contests/dp/submissions/15510617" target="_blank" rel="noopener noreferrer">PyPy3次元dp</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15510478" target="_blank" rel="noopener noreferrer">PyPyメモ化再帰</a> / <a href="https://atcoder.jp/contests/dp/submissions/15510617" target="_blank" rel="noopener noreferrer">PyPy3次元dp</a>  
 
 <a href="https://atcoder.jp/contests/dp/tasks/dp_k" target="_blank" rel="noopener noreferrer">K Stones</a>  
 <a href="" target="_blank" rel="noopener noreferrer">Python</a>  

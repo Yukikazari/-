@@ -16,8 +16,8 @@ AC
   
 <a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d" target="_blank" rel="noopener noreferrer">D Road to Millionaire</a>  
 WA  
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15453815" target="_blank" rel="noopener noreferrer">Python貪欲</a> 
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15476788" target="_blank" rel="noopener noreferrer">Python貪欲2</a> 
+<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15453815" target="_blank" rel="noopener noreferrer">Python貪欲</a> / 
+<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15476788" target="_blank" rel="noopener noreferrer">Python貪欲2</a> / 
 <a href="https://atcoder.jp/contests/m-solutions2020/submissions/15480644" target="_blank" rel="noopener noreferrer">PythonDP</a>  
   
 <a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_e" target="_blank" rel="noopener noreferrer">E M's Solution</a>  
