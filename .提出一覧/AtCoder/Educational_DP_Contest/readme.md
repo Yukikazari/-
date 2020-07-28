@@ -23,12 +23,23 @@
 [G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)  
 [Python](https://atcoder.jp/contests/dp/submissions/15502546)  
 
-[H](https://atcoder.jp/contests/dp/tasks/dp_h)  
-[Lang](https://atcoder.jp/contests/dp/submissions/15477705)  
+[H Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)  
+[Python](https://atcoder.jp/contests/dp/submissions/15502546)  
 
-[I](https://atcoder.jp/contests/dp/tasks/dp_i)  
-[Lang](https://atcoder.jp/contests/dp/submissions/15477705)  
+[I Coins](https://atcoder.jp/contests/dp/tasks/dp_i)  
+[Python](https://atcoder.jp/contests/dp/submissions/15502931)  
 
-[J](https://atcoder.jp/contests/dp/tasks/dp_j)  
-[Lang](https://atcoder.jp/contests/dp/submissions/15477705)  
+[J Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)  
+[PyPyメモ化再帰](https://atcoder.jp/contests/dp/submissions/15510478) [PyPy3次元dp](https://atcoder.jp/contests/dp/submissions/15510617)  
 
+[K Stones](https://atcoder.jp/contests/dp/tasks/dp_k)  
+[Python]()  
+
+[L Deque](https://atcoder.jp/contests/dp/tasks/dp_l)  
+[Python]()  
+
+[M Candies](https://atcoder.jp/contests/dp/tasks/dp_m)  
+[Python]()  
+
+[N Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)  
+[Python]()  
