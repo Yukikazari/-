@@ -1,45 +1,46 @@
 # Atcoder Educational DP Contest
 
-## [TOP](https://atcoder.jp/contests/dp)    
+## <a href="https://atcoder.jp/contests/dp" target="_blank" rel="noopener noreferrer">TOP</a>  
 
-[A Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)  
-[Python](https://atcoder.jp/contests/dp/submissions/15477854)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_a" target="_blank" rel="noopener noreferrer">A Frog 1</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15477854" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[B Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)  
-[PyPy](https://atcoder.jp/contests/dp/submissions/15477908)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_b" target="_blank" rel="noopener noreferrer">B Frog 2</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15477908" target="_blank" rel="noopener noreferrer">PyPy</a>  
 
-[C Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)  
-[Python](https://atcoder.jp/contests/dp/submissions/15478339)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_c" target="_blank" rel="noopener noreferrer">C Vacation</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15478339" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[D Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)  
-[PyPy](https://atcoder.jp/contests/dp/submissions/15478696)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_d" target="_blank" rel="noopener noreferrer">D Knapsack 1</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15478696" target="_blank" rel="noopener noreferrer">PyPy</a>  
 
-[E Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)  
-[PyPy](https://atcoder.jp/contests/dp/submissions/15479897)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_e" target="_blank" rel="noopener noreferrer">E Knapsack 2</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15479897" target="_blank" rel="noopener noreferrer">PyPy</a>  
 
-[F LCS](https://atcoder.jp/contests/dp/tasks/dp_f)  
-[PyPy](https://atcoder.jp/contests/dp/submissions/15480548)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_f" target="_blank" rel="noopener noreferrer">F LCS</a>  
+<a href="https://atcoder.jp/contests/dp/submissions/15480548" target="_blank" rel="noopener noreferrer">PyPy</a>  
 
-[G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)  
-[Python](https://atcoder.jp/contests/dp/submissions/15502546)  
+<a href="https://atcoder.jp/contests/dp/tasks/dp_g" target="_blank" rel="noopener noreferrer">G Longest Path</a>  
 
-[H Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)  
-[Python](https://atcoder.jp/contests/dp/submissions/15502546)  
+<a href="]https://atcoder.jp/contests/dp/submissions/15502546" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[I Coins](https://atcoder.jp/contests/dp/tasks/dp_i)  
-[Python](https://atcoder.jp/contests/dp/submissions/15502931)  
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_h" target="_blank" rel="noopener noreferrer">H Grid 1</a>  
+<a href="]https://atcoder.jp/contests/dp/submissions/15502546" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[J Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)  
-[PyPyメモ化再帰](https://atcoder.jp/contests/dp/submissions/15510478) [PyPy3次元dp](https://atcoder.jp/contests/dp/submissions/15510617)  
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_i" target="_blank" rel="noopener noreferrer">I Coins</a>  
+<a href="]https://atcoder.jp/contests/dp/submissions/15502931" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[K Stones](https://atcoder.jp/contests/dp/tasks/dp_k)  
-[Python]()  
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_j" target="_blank" rel="noopener noreferrer">J Sushi</a>  
+<a href="]https://atcoder.jp/contests/dp/submissions/15510478" target="_blank" rel="noopener noreferrer">PyPyメモ化再帰</a> <a href="]https://atcoder.jp/contests/dp/submissions/15510617" target="_blank" rel="noopener noreferrer">PyPy3次元dp</a>  
 
-[L Deque](https://atcoder.jp/contests/dp/tasks/dp_l)  
-[Python]()  
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_k" target="_blank" rel="noopener noreferrer">K Stones</a>  
+<a href="" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[M Candies](https://atcoder.jp/contests/dp/tasks/dp_m)  
-[Python]()  
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_l" target="_blank" rel="noopener noreferrer">L Deque</a>  
+<a href="" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[N Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)  
-[Python]()  
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_m" target="_blank" rel="noopener noreferrer">M Candies</a>  
+<a href="" target="_blank" rel="noopener noreferrer">Python</a>  
+
+<a href="]https://atcoder.jp/contests/dp/tasks/dp_n" target="_blank" rel="noopener noreferrer">N Slimes</a>  
+<a href="" target="_blank" rel="noopener noreferrer">Python</a>  

@@ -1,19 +1,19 @@
 # Atcoder ABC 043
 
-## [TOP](https://atcoder.jp/contests/abc043)    
+## <a href="https://atcoder.jp/contests/abc043" target="_blank" rel="noopener noreferrer">TOP</a>  
 
-[A キャンディーとN人の子供イージー](https://atcoder.jp/contests/abc043/tasks/abc043_a)  
+<a href="https://atcoder.jp/contests/abc043/tasks/abc043_a" target="_blank" rel="noopener noreferrer">A キャンディーとN人の子供イージー</a>  
 AC  
-[Python](https://atcoder.jp/contests/abc043/submissions/15399715)  
+<a href="https://atcoder.jp/contests/abc043/submissions/15399715" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[B バイナリハックイージー](https://atcoder.jp/contests/abc043/tasks/abc043_b)  
+<a href="https://atcoder.jp/contests/abc043/tasks/abc043_b" target="_blank" rel="noopener noreferrer">B バイナリハックイージー</a>  
 AC  
-[Python](https://atcoder.jp/contests/abc043/submissions/15399750)  
+<a href="https://atcoder.jp/contests/abc043/submissions/15399750" target="_blank" rel="noopener noreferrer">Python</a>  
   
-[C いっしょ](https://atcoder.jp/contests/abc043/tasks/arc058_a)  
+<a href="https://atcoder.jp/contests/abc043/tasks/arc058_a" target="_blank" rel="noopener noreferrer">C いっしょ</a>  
 AC  
-[Python](https://atcoder.jp/contests/abc043/submissions/15399781)  
+<a href="https://atcoder.jp/contests/abc043/submissions/15399781" target="_blank" rel="noopener noreferrer">Python</a>  
   
-[D アンバランス](https://atcoder.jp/contests/abc043/tasks/arc058_b)  
+<a href="https://atcoder.jp/contests/abc043/tasks/arc058_b" target="_blank" rel="noopener noreferrer">D アンバランス</a>  
 WA  
-[Python](https://atcoder.jp/contests/abc043/submissions/15399835)  
+<a href="https://atcoder.jp/contests/abc043/submissions/15399835" target="_blank" rel="noopener noreferrer">Python</a>  

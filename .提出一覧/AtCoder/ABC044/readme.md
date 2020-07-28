@@ -1,20 +1,20 @@
 # Atcoder ABC 044
 
-## [TOP](https://atcoder.jp/contests/abc044)    
+## <a href="https://atcoder.jp/contests/abc044" target="_blank" rel="noopener noreferrer">TOP</a>  
 
-[A 高橋君とホテルイージー](https://atcoder.jp/contests/abc044/tasks/abc044_a)  
+<a href="https://atcoder.jp/contests/abc044/tasks/abc044_a" target="_blank" rel="noopener noreferrer">A 高橋君とホテルイージー</a>  
 AC  
-[Python](https://atcoder.jp/contests/abc044/submissions/15400004)  
+<a href="https://atcoder.jp/contests/abc044/submissions/15400004" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[B 美しい文字列](https://atcoder.jp/contests/abc044/tasks/abc044_b)  
+<a href="https://atcoder.jp/contests/abc044/tasks/abc044_b" target="_blank" rel="noopener noreferrer">B 美しい文字列</a>  
 AC  
-[Python](https://atcoder.jp/contests/abc044/submissions/15400019)  
+<a href="https://atcoder.jp/contests/abc044/submissions/15400019" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[C 高橋君とカード](https://atcoder.jp/contests/abc044/tasks/arc060_a)  
+<a href="https://atcoder.jp/contests/abc044/tasks/arc060_a" target="_blank" rel="noopener noreferrer">C 高橋君とカード</a>  
 WA  
-[Python](https://atcoder.jp/contests/abc044/submissions/15409310)  
+<a href="https://atcoder.jp/contests/abc044/submissions/15409310" target="_blank" rel="noopener noreferrer">Python</a>  
 
-[D 桁和](https://atcoder.jp/contests/abc044/tasks/arc060_b)  
+<a href="https://atcoder.jp/contests/abc044/tasks/arc060_b" target="_blank" rel="noopener noreferrer">D 桁和</a>  
 WA  
-[Python](https://atcoder.jp/contests/abc044/submissions/15477705)  
+<a href="https://atcoder.jp/contests/abc044/submissions/15477705" target="_blank" rel="noopener noreferrer">Python</a>  
 
