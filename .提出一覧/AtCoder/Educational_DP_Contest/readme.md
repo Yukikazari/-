@@ -15,13 +15,13 @@
 [PyPy](https://atcoder.jp/contests/dp/submissions/15478696)  
 
 [E Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)  
-[Lang](https://atcoder.jp/contests/dp/submissions/15479897)  
+[PyPy](https://atcoder.jp/contests/dp/submissions/15479897)  
 
 [F LCS](https://atcoder.jp/contests/dp/tasks/dp_f)  
-[Lang](https://atcoder.jp/contests/dp/submissions/15477705)  
+[PyPy](https://atcoder.jp/contests/dp/submissions/15480548)  
 
 [G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)  
-[Lang](https://atcoder.jp/contests/dp/submissions/15477705)  
+[Python](https://atcoder.jp/contests/dp/submissions/15502546)  
 
 [H](https://atcoder.jp/contests/dp/tasks/dp_h)  
 [Lang](https://atcoder.jp/contests/dp/submissions/15477705)  
