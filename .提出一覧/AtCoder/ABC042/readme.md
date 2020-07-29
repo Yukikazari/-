@@ -1,6 +1,6 @@
 # Atcoder ABC 042
 
-## <a href="]https://atcoder.jp/contests/abc042" target="_blank" rel="noopener noreferrer">TOP</a>  
+## <a href="https://atcoder.jp/contests/abc042" target="_blank" rel="noopener noreferrer">TOP</a>  
 
 <a href="https://atcoder.jp/contests/abc042/tasks/abc042_a" target="_blank" rel="noopener noreferrer">A 和風いろはちゃんイージー</a>  
 AC  
