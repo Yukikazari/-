@@ -27,13 +27,13 @@ def createatcoder(url, m, home, page):
     contesttitle = bs4Obj.find(class_="contest-title").text
     conid = re.match(".*?([\d]+)", contesttitle)
 
-    if re.match("AtCoder Beginner", contesttitle):
+    if re.match(".*?AtCoder Beginner", contesttitle):
         urldict[m[3]] = "ABC" + conid[1]
         contesttitle = "ABC" + conid[1]
-    elif re.match("AtCoder Regular", contesttitle):
+    elif re.match(".*?AtCoder Regular", contesttitle):
         urldict[m[3]] = "ARC" + conid[1]
         contesttitle = "ARC" + conid[1]
-    elif re.match("AtCoder Grand", contesttitle):
+    elif re.match(".*?AtCoder Grand", contesttitle):
         urldict[m[3]] = "AGC" + conid[1]
         contesttitle = "AGC" + conid[1]
     else:
