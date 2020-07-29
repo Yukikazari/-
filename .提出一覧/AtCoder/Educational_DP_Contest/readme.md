@@ -30,7 +30,7 @@
 [Python](https://atcoder.jp/contests/dp/submissions/15502931)  
 
 [J Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)  
-[PyPyメモ化再帰](https://atcoder.jp/contests/dp/submissions/15510478)  
+[PyPyメモ化再帰](https://atcoder.jp/contests/dp/submissions/15510478) [PyPy通常dp](https://atcoder.jp/contests/dp/submissions/15510617)  
 
 [K Stones](https://atcoder.jp/contests/dp/tasks/dp_k)  
 [Python]()  
