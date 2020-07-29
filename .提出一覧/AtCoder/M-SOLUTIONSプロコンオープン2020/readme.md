@@ -1,27 +1,27 @@
 # Atcoder M-SOLUTIONS プロコンオープン 2020
 
-## <a href="https://atcoder.jp/contests/m-solutions2020" target="_blank" rel="noopener noreferrer">TOP</a>  
+## [TOP](https://atcoder.jp/contests/m-solutions2020)  
 
-<a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a" target="_blank" rel="noopener noreferrer">A Kyu in AtCoder</a>  
+[A Kyu in AtCoder](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a)  
 AC  
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15413491" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/m-solutions2020/submissions/15413491)  
   
-<a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b" target="_blank" rel="noopener noreferrer">B Magic 2</a>  
+[B Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b)  
 AC  
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15418786" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/m-solutions2020/submissions/15418786)  
   
-<a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c" target="_blank" rel="noopener noreferrer">C Marks</a>  
+[C Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c)  
 AC  
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15424530" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/m-solutions2020/submissions/15424530)  
   
-<a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d" target="_blank" rel="noopener noreferrer">D Road to Millionaire</a>  
+[D Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d)  
 WA  
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15453815" target="_blank" rel="noopener noreferrer">Python貪欲</a> / 
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15476788" target="_blank" rel="noopener noreferrer">Python貪欲2</a> / 
-<a href="https://atcoder.jp/contests/m-solutions2020/submissions/15480644" target="_blank" rel="noopener noreferrer">PythonDP</a>  
+[Python貪欲](https://atcoder.jp/contests/m-solutions2020/submissions/15453815)  
+[Python貪欲2](https://atcoder.jp/contests/m-solutions2020/submissions/15476788)  
+[PythonDP](https://atcoder.jp/contests/m-solutions2020/submissions/15480644)  
   
-<a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_e" target="_blank" rel="noopener noreferrer">E M's Solution</a>  
+[E M's Solution](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_e)  
 WA  
-<a href="https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_f" target="_blank" rel="noopener noreferrer">F Air Safety</a>  
+[F Air Safety](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_f)  
 WA  
 

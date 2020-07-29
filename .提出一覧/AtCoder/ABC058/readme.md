@@ -1,17 +1,17 @@
 # AtCoder ABC058  
 
-## <a href="https://atcoder.jp/contests/abc058" target="_blank" rel="noopener noreferrer">TOP</a>  
+## [TOP](https://atcoder.jp/contests/abc058)  
 
-<a href="https://atcoder.jp/contests/abc058/tasks/abc058_a" target="_blank" rel="noopener noreferrer">A  É«Å€l</a>  
-<a href="https://atcoder.jp/contests/abc058/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[A  Œπ‚ä•l](https://atcoder.jp/contests/abc058/tasks/abc058_a)  
+[](https://atcoder.jp/contests/abc058/submissions/)  
 
-<a href="https://atcoder.jp/contests/abc058/tasks/abc058_b" target="_blank" rel="noopener noreferrer">B ÅÊÅàÅÊ</a>  
-<a href="https://atcoder.jp/contests/abc058/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[B ‚àµ‚à¥‚àµ](https://atcoder.jp/contests/abc058/tasks/abc058_b)  
+[](https://atcoder.jp/contests/abc058/submissions/)  
 
-<a href="https://atcoder.jp/contests/abc058/tasks/arc071_a" target="_blank" rel="noopener noreferrer">C Dubious Document</a>  
+[C Dubious Document](https://atcoder.jp/contests/abc058/tasks/arc071_a)  
 AC  
-<a href="https://atcoder.jp/contests/abc058/submissions/15528433" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/abc058/submissions/15528433)  
 
-<a href="https://atcoder.jp/contests/abc058/tasks/arc071_b" target="_blank" rel="noopener noreferrer">D ###</a>  
-<a href="https://atcoder.jp/contests/abc058/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[D ###](https://atcoder.jp/contests/abc058/tasks/arc071_b)  
+[](https://atcoder.jp/contests/abc058/submissions/)  
 

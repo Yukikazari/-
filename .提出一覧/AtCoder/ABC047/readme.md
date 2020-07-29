@@ -1,18 +1,18 @@
 # AtCoder ABC047  
 
-## <a href="https://atcoder.jp/contests/abc047" target="_blank" rel="noopener noreferrer">TOP</a>  
+## [TOP](https://atcoder.jp/contests/abc047)  
 
-<a href="https://atcoder.jp/contests/abc047/tasks/abc047_a" target="_blank" rel="noopener noreferrer">A Fighting over Candies</a>  
-<a href="https://atcoder.jp/contests/abc047/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[A Fighting over Candies](https://atcoder.jp/contests/abc047/tasks/abc047_a)  
+[](https://atcoder.jp/contests/abc047/submissions/)  
 
-<a href="https://atcoder.jp/contests/abc047/tasks/abc047_b" target="_blank" rel="noopener noreferrer">B Snuke's Coloring 2 (ABC Edit)</a>  
+[B Snuke's Coloring 2 (ABC Edit)](https://atcoder.jp/contests/abc047/tasks/abc047_b)  
 AC  
-<a href="https://atcoder.jp/contests/abc047/submissions/15527878" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/abc047/submissions/15527878)  
 
-<a href="https://atcoder.jp/contests/abc047/tasks/arc063_a" target="_blank" rel="noopener noreferrer">C 1D Reversi</a>  
+[C 1D Reversi](https://atcoder.jp/contests/abc047/tasks/arc063_a)  
 2WA  
-<a href="https://atcoder.jp/contests/abc047/submissions/15527923" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/abc047/submissions/15527923)  
 
-<a href="https://atcoder.jp/contests/abc047/tasks/arc063_b" target="_blank" rel="noopener noreferrer">D An Invisible Hand</a>  
-<a href="https://atcoder.jp/contests/abc047/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[D An Invisible Hand](https://atcoder.jp/contests/abc047/tasks/arc063_b)  
+[](https://atcoder.jp/contests/abc047/submissions/)  
 

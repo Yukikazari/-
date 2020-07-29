@@ -1,18 +1,18 @@
 # AtCoder ABC045  
 
-## <a href="https://atcoder.jp/contests/abc045" target="_blank" rel="noopener noreferrer">TOP</a>  
+## [TOP](https://atcoder.jp/contests/abc045)  
 
-<a href="https://atcoder.jp/contests/abc045/tasks/abc045_a" target="_blank" rel="noopener noreferrer">A Trapezoids</a>  
-<a href="https://atcoder.jp/contests/abc045/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[A Trapezoids](https://atcoder.jp/contests/abc045/tasks/abc045_a)  
+[](https://atcoder.jp/contests/abc045/submissions/)  
 
-<a href="https://atcoder.jp/contests/abc045/tasks/abc045_b" target="_blank" rel="noopener noreferrer">B Card Game for Three (ABC Edit)</a>  
+[B Card Game for Three (ABC Edit)](https://atcoder.jp/contests/abc045/tasks/abc045_b)  
 3WA  
-<a href="https://atcoder.jp/contests/abc045/submissions/15527698" target="_blank" rel="noopener noreferrer">Python</a>
+[Python](https://atcoder.jp/contests/abc045/submissions/15527698)  
 
-<a href="https://atcoder.jp/contests/abc045/tasks/arc061_a" target="_blank" rel="noopener noreferrer">C Many Formulas</a>  
+[C Many Formulas](https://atcoder.jp/contests/abc045/tasks/arc061_a)  
 AC  
-<a href="https://atcoder.jp/contests/abc045/submissions/15528285" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/abc045/submissions/15528285)  
 
-<a href="https://atcoder.jp/contests/abc045/tasks/arc061_b" target="_blank" rel="noopener noreferrer">D Snuke's Coloring</a>  
-<a href="https://atcoder.jp/contests/abc045/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[D Snuke's Coloring](https://atcoder.jp/contests/abc045/tasks/arc061_b)  
+[](https://atcoder.jp/contests/abc045/submissions/)  
 

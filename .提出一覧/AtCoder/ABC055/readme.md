@@ -1,17 +1,17 @@
 # AtCoder ABC055  
 
-## <a href="https://atcoder.jp/contests/abc055" target="_blank" rel="noopener noreferrer">TOP</a>  
+## [TOP](https://atcoder.jp/contests/abc055)  
 
-<a href="https://atcoder.jp/contests/abc055/tasks/abc055_a" target="_blank" rel="noopener noreferrer">A Restaurant</a>  
-<a href="https://atcoder.jp/contests/abc055/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[A Restaurant](https://atcoder.jp/contests/abc055/tasks/abc055_a)  
+[](https://atcoder.jp/contests/abc055/submissions/)  
 
-<a href="https://atcoder.jp/contests/abc055/tasks/abc055_b" target="_blank" rel="noopener noreferrer">B Training Camp</a>  
-<a href="https://atcoder.jp/contests/abc055/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[B Training Camp](https://atcoder.jp/contests/abc055/tasks/abc055_b)  
+[](https://atcoder.jp/contests/abc055/submissions/)  
 
-<a href="https://atcoder.jp/contests/abc055/tasks/arc069_a" target="_blank" rel="noopener noreferrer">C Scc Puzzle</a>  
+[C Scc Puzzle](https://atcoder.jp/contests/abc055/tasks/arc069_a)  
 1WA  
-<a href="https://atcoder.jp/contests/abc055/submissions/15528361" target="_blank" rel="noopener noreferrer">Python</a>  
+[Python](https://atcoder.jp/contests/abc055/submissions/15528361)  
 
-<a href="https://atcoder.jp/contests/abc055/tasks/arc069_b" target="_blank" rel="noopener noreferrer">D Menagerie</a>  
-<a href="https://atcoder.jp/contests/abc055/submissions/" target="_blank" rel="noopener noreferrer"></a>  
+[D Menagerie](https://atcoder.jp/contests/abc055/tasks/arc069_b)  
+[](https://atcoder.jp/contests/abc055/submissions/)  
 
