@@ -111,6 +111,7 @@ def main():
 
 
 if __name__ == "__main__":
+    print("URL:")
     url = input()
 
     get_url_info = requests.get(url)
