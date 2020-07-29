@@ -11,7 +11,7 @@
 
 <a href="https://atcoder.jp/contests/abc045/tasks/arc061_a" target="_blank" rel="noopener noreferrer">C Many Formulas</a>  
 AC  
-<a href="https://atcoder.jp/contests/abc045/submissions/" target="_blank" rel="noopener noreferrer">15528285</a>  
+<a href="https://atcoder.jp/contests/abc045/submissions/15528285" target="_blank" rel="noopener noreferrer">Python</a>  
 
 <a href="https://atcoder.jp/contests/abc045/tasks/arc061_b" target="_blank" rel="noopener noreferrer">D Snuke's Coloring</a>  
 <a href="https://atcoder.jp/contests/abc045/submissions/" target="_blank" rel="noopener noreferrer"></a>  
