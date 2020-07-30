@@ -3,7 +3,8 @@
 ## [TOP](https://atcoder.jp/contests/abc045)  
 
 [A Trapezoids](https://atcoder.jp/contests/abc045/tasks/abc045_a)  
-[](https://atcoder.jp/contests/abc045/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc045/submissions/15542333)  
 
 [B Card Game for Three (ABC Edit)](https://atcoder.jp/contests/abc045/tasks/abc045_b)  
 3WA  

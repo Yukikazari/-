@@ -61,11 +61,11 @@ def createatcoder(url, m, home, page):
     res += "# {0} {1}  \n\n".format(page, contesttitle)
 
     #  top page
-    res += "## <a href=\"{0}\" target=\"_blank\" rel=\"noopener noreferrer\">TOP</a>  \n\n".format(home + "/contests/" + m[3])
+    res += "## [TOP]({0})  \n\n".format(home + "/contests/" + m[3])
 
     for obj in tasks:
-        res += "<a href=\"{0}\" target=\"_blank\" rel=\"noopener noreferrer\">{1} {2}</a>  \n".format(home+urls[obj], obj, tasks[obj])
-        res += "<a href=\"{0}\" target=\"_blank\" rel=\"noopener noreferrer\"></a>  \n\n".format(home + "/contests/" + m[3] + "/submissions/")
+        res += "[{0} {1}]({2})   \n".format(obj, tasks[obj], home+urls[obj])
+        res += "[]({0})  \n\n".format(home + "/contests/" + m[3] + "/submissions/")
 
     updir = "./{0}/{1}/{2}".format(dirname, page, contesttitle)
     if not os.path.isdir(updir):
