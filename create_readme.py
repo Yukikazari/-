@@ -14,6 +14,8 @@ dictjson = "urldict.json"
 
 dirname = ".提出一覧"
 
+dirname2 = "E:\ぷろぐらむ\競プロ"
+
 if os.path.isfile(dictjson):
     with open(dictjson, mode="r") as f:
         urldict = json.load(f)
@@ -71,9 +73,23 @@ def createatcoder(url, m, home, page):
     if not os.path.isdir(updir):
         os.makedirs(updir)
 
+    updir2 = "{0}/atcoder/{1}".format(dirname2, contesttitle)
+
+    if not os.path.isdir(updir2):
+        os.makedirs(updir2)
+
+    create = False
+
     upfile = updir + "/readme.md"
-    with open(upfile, mode="w") as f:
-        f.write(res)
+    if not os.path.isfile(upfile):
+        create = True
+        with open(upfile, mode="w") as f:
+            f.write(res)
+
+    if create:
+        print("create:" + contesttitle)
+    else:
+        print("already created:" + contesttitle)
 
 def updateatcoder():
     pass
@@ -82,7 +98,7 @@ def main():
 
 
     if get_url_info.status_code != 404 and get_url_info.status_code != 403:
-        m = re.match(r"https?://([\w]+.[\w]+)/([\w]+)/([\w]+)/?([\w]*)/?([\w]*)", url)
+        m = re.match(r"https?://([\w]+.[\w]+)/([\w-]+)/([\w-]+)/?([\w-]*)", url)
         home = re.match(r"https?://([\w]+.[\w]+)", url).group()
         if m[1] == "atcoder.jp":
             if m[2] == "contests":
