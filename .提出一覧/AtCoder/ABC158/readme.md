@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc158/submissions/15650804)  
 
 [C Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c)   
-
-[](https://atcoder.jp/contests/abc158/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc158/submissions/15686319)  
 
 [D String Formation](https://atcoder.jp/contests/abc158/tasks/abc158_d)   
 

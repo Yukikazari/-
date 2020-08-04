@@ -6,7 +6,8 @@
 [](https://atcoder.jp/contests/abc061/submissions/)  
 
 [B Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b)  
-[](https://atcoder.jp/contests/abc061/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc061/submissions/15685902)  
 
 [C Big Array](https://atcoder.jp/contests/abc061/tasks/abc061_c)  
 AC  
