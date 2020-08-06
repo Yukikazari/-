@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc087/submissions/15651556)  
 
 [C Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a)   
-
-[](https://atcoder.jp/contests/abc087/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc087/submissions/15730126)  
 
 [D People on a Line](https://atcoder.jp/contests/abc087/tasks/arc090_b)   
 

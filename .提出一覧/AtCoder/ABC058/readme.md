@@ -6,7 +6,8 @@
 [](https://atcoder.jp/contests/abc058/submissions/)  
 
 [B ∵∴∵](https://atcoder.jp/contests/abc058/tasks/abc058_b)  
-[](https://atcoder.jp/contests/abc058/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc058/submissions/15727138)  
 
 [C Dubious Document](https://atcoder.jp/contests/abc058/tasks/arc071_a)  
 AC  

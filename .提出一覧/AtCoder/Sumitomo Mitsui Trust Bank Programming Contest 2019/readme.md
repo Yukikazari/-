@@ -10,7 +10,8 @@ AC
 [Python](https://atcoder.jp/contests/sumitrust2019/submissions/15557331)  
 
 [C 100 to 105](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_c)   
-[](https://atcoder.jp/contests/sumitrust2019/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/sumitrust2019/submissions/15728493)  
 
 [D Lucky PIN](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d)   
 [](https://atcoder.jp/contests/sumitrust2019/submissions/)  

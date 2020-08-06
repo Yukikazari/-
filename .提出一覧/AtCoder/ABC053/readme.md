@@ -6,7 +6,8 @@
 [](https://atcoder.jp/contests/abc053/submissions/)  
 
 [B A to Z String](https://atcoder.jp/contests/abc053/tasks/abc053_b)  
-[](https://atcoder.jp/contests/abc053/submissions/)  
+1WA  
+[Python](https://atcoder.jp/contests/abc053/submissions/15727236)  
 
 [C X: Yet Another Die Game](https://atcoder.jp/contests/abc053/tasks/arc068_a)  
 3WA  
