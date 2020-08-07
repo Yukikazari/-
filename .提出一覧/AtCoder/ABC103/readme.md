@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc103/submissions/15710536)  
 
 [C Modulo Summation](https://atcoder.jp/contests/abc103/tasks/abc103_c)   
-
-[](https://atcoder.jp/contests/abc103/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc103/submissions/15731310)  
 
 [D Islands War](https://atcoder.jp/contests/abc103/tasks/abc103_d)   
 

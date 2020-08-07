@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc093/submissions/15686253)  
 
 [C Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a)   
-
-[](https://atcoder.jp/contests/abc093/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc093/submissions/15731680)  
 
 [D Worst Case](https://atcoder.jp/contests/abc093/tasks/arc094_b)   
 

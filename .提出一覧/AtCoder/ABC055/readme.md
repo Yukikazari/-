@@ -6,7 +6,8 @@
 [](https://atcoder.jp/contests/abc055/submissions/)  
 
 [B Training Camp](https://atcoder.jp/contests/abc055/tasks/abc055_b)  
-[](https://atcoder.jp/contests/abc055/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc055/submissions/15731397)  
 
 [C Scc Puzzle](https://atcoder.jp/contests/abc055/tasks/arc069_a)  
 1WA  

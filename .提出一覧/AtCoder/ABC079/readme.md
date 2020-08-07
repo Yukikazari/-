@@ -11,8 +11,9 @@ AC
 [Python](https://atcoder.jp/contests/abc079/submissions/15685187)  
 
 [C Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c)   
-
-[](https://atcoder.jp/contests/abc079/submissions/)  
+1WA  
+[Python](https://atcoder.jp/contests/abc079/submissions/15731563) 
+[Python](https://atcoder.jp/contests/abc079/submissions/15731606)  
 
 [D Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d)   
 

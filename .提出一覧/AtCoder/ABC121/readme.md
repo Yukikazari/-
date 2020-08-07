@@ -10,7 +10,8 @@ AC
 [Python](https://atcoder.jp/contests/abc121/submissions/15557347)  
 
 [C Energy Drink Collector](https://atcoder.jp/contests/abc121/tasks/abc121_c)   
-[](https://atcoder.jp/contests/abc121/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc121/submissions/15731860)  
 
 [D XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d)   
 [](https://atcoder.jp/contests/abc121/submissions/)  

@@ -6,7 +6,8 @@
 [](https://atcoder.jp/contests/abc065/submissions/)  
 
 [B Trained?](https://atcoder.jp/contests/abc065/tasks/abc065_b)  
-[](https://atcoder.jp/contests/abc065/submissions/)  
+WA  
+[Python](https://atcoder.jp/contests/abc065/submissions/15732145)  
 
 [C Reconciled?](https://atcoder.jp/contests/abc065/tasks/arc076_a)  
 AC  
