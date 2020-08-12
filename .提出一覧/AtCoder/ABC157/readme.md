@@ -10,7 +10,8 @@
 [Python](https://atcoder.jp/contests/abc157/submissions/15557526)  
 
 [C Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c)   
-[](https://atcoder.jp/contests/abc157/submissions/)  
+2WA  
+[Python](https://atcoder.jp/contests/abc157/submissions/15854806)  
 
 [D Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d)   
 [](https://atcoder.jp/contests/abc157/submissions/)  

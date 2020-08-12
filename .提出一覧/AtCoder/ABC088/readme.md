@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc088/submissions/15557656)  
 
 [C Takahashi's Information](https://atcoder.jp/contests/abc088/tasks/abc088_c)   
-
-[](https://atcoder.jp/contests/abc088/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc088/submissions/15854161)  
 
 [D Grid Repainting](https://atcoder.jp/contests/abc088/tasks/abc088_d)   
 

@@ -11,7 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc086/submissions/15557549)  
 
 [C Traveling](https://atcoder.jp/contests/abc086/tasks/arc089_a)   
-[](https://atcoder.jp/contests/abc086/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc086/submissions/15853449)  
 
 [D Checker](https://atcoder.jp/contests/abc086/tasks/arc089_b)   
 [](https://atcoder.jp/contests/abc086/submissions/)  

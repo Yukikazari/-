@@ -9,7 +9,8 @@
 [](https://atcoder.jp/contests/abc072/submissions/)  
 
 [C Together](https://atcoder.jp/contests/abc072/tasks/arc082_a)   
-[](https://atcoder.jp/contests/abc072/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc072/submissions/15853027)  
 
 [D Derangement](https://atcoder.jp/contests/abc072/tasks/arc082_b)   
 AC  

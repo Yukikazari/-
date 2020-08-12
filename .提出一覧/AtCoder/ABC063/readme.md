@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc063/submissions/15651248)  
 
 [C Bugged](https://atcoder.jp/contests/abc063/tasks/arc075_a)   
-
-[](https://atcoder.jp/contests/abc063/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc063/submissions/15854002)  
 
 [D Widespread](https://atcoder.jp/contests/abc063/tasks/arc075_b)   
 
