@@ -6,7 +6,8 @@
 [](https://atcoder.jp/contests/abc066/submissions/)  
 
 [B ss](https://atcoder.jp/contests/abc066/tasks/abc066_b)   
-[](https://atcoder.jp/contests/abc066/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc066/submissions/15764820)  
 
 [C pushpush](https://atcoder.jp/contests/abc066/tasks/arc077_a)   
 AC  

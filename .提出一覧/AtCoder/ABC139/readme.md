@@ -14,7 +14,8 @@ AC
 [Python](https://atcoder.jp/contests/abc139/submissions/15685451)  
 
 [D ModSum](https://atcoder.jp/contests/abc139/tasks/abc139_d)   
-[](https://atcoder.jp/contests/abc139/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc139/submissions/15813058)  
 
 [E League](https://atcoder.jp/contests/abc139/tasks/abc139_e)   
 [](https://atcoder.jp/contests/abc139/submissions/)  
