@@ -7,8 +7,8 @@ AC
 [Python](https://atcoder.jp/contests/agc015/submissions/15854844)  
 
 [B Evilator](https://atcoder.jp/contests/agc015/tasks/agc015_b)   
-
-[](https://atcoder.jp/contests/agc015/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/agc015/submissions/16066287)  
 
 [C Nuske vs Phantom Thnook](https://atcoder.jp/contests/agc015/tasks/agc015_c)   
 

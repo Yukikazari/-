@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc109/submissions/15686085)  
 
 [C Skip](https://atcoder.jp/contests/abc109/tasks/abc109_c)   
-
-[](https://atcoder.jp/contests/abc109/submissions/)  
+2WA  
+[Python](https://atcoder.jp/contests/abc109/submissions/16064365)  
 
 [D Make Them Even](https://atcoder.jp/contests/abc109/tasks/abc109_d)   
 

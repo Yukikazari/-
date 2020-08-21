@@ -3,8 +3,8 @@
 ## [TOP](https://atcoder.jp/contests/abc081)  
 
 [A Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a)   
-
-[](https://atcoder.jp/contests/abc081/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc081/submissions/16065796)  
 
 [B Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b)   
 AC  

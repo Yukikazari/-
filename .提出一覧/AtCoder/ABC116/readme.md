@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc116/submissions/15557902)  
 
 [C Grand Garden](https://atcoder.jp/contests/abc116/tasks/abc116_c)   
-
-[](https://atcoder.jp/contests/abc116/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc116/submissions/16064626)  
 
 [D Various Sushi](https://atcoder.jp/contests/abc116/tasks/abc116_d)   
 
