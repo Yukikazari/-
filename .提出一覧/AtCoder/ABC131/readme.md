@@ -15,8 +15,8 @@ AC
 [Python](https://atcoder.jp/contests/abc131/submissions/16064033)  
 
 [D Megalomania](https://atcoder.jp/contests/abc131/tasks/abc131_d)   
-
-[](https://atcoder.jp/contests/abc131/submissions/)  
+AC  
+[Python](https://atcoder.jp/contests/abc131/submissions/16400121)  
 
 [E Friendships](https://atcoder.jp/contests/abc131/tasks/abc131_e)   
 

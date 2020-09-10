@@ -11,8 +11,8 @@ AC
 [Python](https://atcoder.jp/contests/abc133/submissions/15686149)  
 
 [C Remainder Minimization 2019](https://atcoder.jp/contests/abc133/tasks/abc133_c)   
-
-[](https://atcoder.jp/contests/abc133/submissions/)  
+WA  
+[Python](https://atcoder.jp/contests/abc133/submissions/16399790)  
 
 [D Rain Flows into Dams](https://atcoder.jp/contests/abc133/tasks/abc133_d)   
 
