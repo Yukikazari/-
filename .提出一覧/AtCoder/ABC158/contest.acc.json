@@ -9,7 +9,12 @@
       "id": "abc158_a",
       "label": "A",
       "title": "Station and Bus",
-      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_a"
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "abc158_b",
@@ -27,12 +32,7 @@
       "id": "abc158_d",
       "label": "D",
       "title": "String Formation",
-      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_d",
-      "directory": {
-        "path": "d",
-        "testdir": "test",
-        "submit": "main.py"
-      }
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_d"
     },
     {
       "id": "abc158_e",
